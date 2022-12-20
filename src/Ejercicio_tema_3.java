@@ -1,4 +1,4 @@
-public class ejercicio_tema_3 {
+public class Ejercicio_tema_3 {
   
     public static void main(String[] args) throws Exception {
       //ejercicio #1
@@ -29,9 +29,10 @@ public class ejercicio_tema_3 {
         System.out.println(micoche.Puertas);
 }
 
+
     public static int suma (int a, int b, int c)
     {
      return a + b + c;
     }
-}
+  }
 
