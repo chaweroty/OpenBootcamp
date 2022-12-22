@@ -42,5 +42,3 @@ public class Ejercicio_tema_8 {
                 return this.telefono;
             }
         }
-
-
